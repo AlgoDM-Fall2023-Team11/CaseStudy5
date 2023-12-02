@@ -40,7 +40,7 @@ def Image_Match():
     import glob
 
     # Replace this with the full path to your directory
-    directory_path = 'Data\Data'
+    directory_path = 'Data_set'
 
     # Use the directory_path in the glob function
     image_paths = glob.glob(f'{directory_path}/*.jpg')
