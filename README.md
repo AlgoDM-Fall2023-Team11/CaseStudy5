@@ -1,4 +1,5 @@
 # Algorithmic Digital Marketing - Image Annotation and Multimodal Retrieval
+Codelabs Link: https://codelabs-preview.appspot.com/?file_id=1U1kp4HCopbhkkSJZEohzWwusqqJOJZjN6zjAP7eIWE4#2
 
 ## Team Members
 - Krishna Barfiwala (NUID: 002771997)
