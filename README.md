@@ -1,6 +1,8 @@
 # Algorithmic Digital Marketing - Image Annotation and Multimodal Retrieval
 Codelabs Link: https://codelabs-preview.appspot.com/?file_id=1U1kp4HCopbhkkSJZEohzWwusqqJOJZjN6zjAP7eIWE4#2
 
+Application link: https://algodm-fall2023-team11-casestudy5-final-app-nakul-vs1573.streamlit.app/
+
 ## Team Members
 - Krishna Barfiwala (NUID: 002771997)
 - Nakul Shiledar (NUID: 002738981)
