@@ -1,0 +1,162 @@
+[
+  {
+    "id": "dataset/2691.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Gender-neutral (Children's clothing)\n3. Sleeves: N/A (Shorts do not have sleeves)\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Color: Blue\n7. Age group: 3 to 4 years\n8. Brand name: Not identifiable from the image\n9. Other info: The shorts feature a character patch which resembles an animated character. \n10. Other info: The shorts have an elastic waistband for comfort and ease of fit for children."
+  },
+  {
+    "id": "dataset/2693.jpg",
+    "annotations": "1. Type_of_image: Clothes\n2. Gender: Appears to be children's clothing\n3. Sleeves: Short\n4. Collar: With collar\n5. Formal_informal: Casual\n6. Color: Yellow\n7. Age_group: Likely designed for 3 to 4 years old\n8. Brand_name: Cannot be determined from the image\n9. Other_info: The shirt has a cartoon character emblem on the pocket area.\n10. Other_info: The garment features button-up closure and a pocket on the left chest."
+  },
+  {
+    "id": "dataset/2694.jpg",
+    "annotations": "1. Type_of_image: Clothes\n2. Gender: The shirt appears to be designed for a child which could be unisex, but without additional context, it's difficult to specify definitively.\n3. Sleeves: Short\n4. Collar: With collar\n5. Formal_informal: Casual\n6. Colour: Red\n7. Age_group: Appears to be designed for a child, likely between 3 to 4 years based on size and style.\n8. Brand_name: Without a visible logo or tag indicating the brand, it is not possible to specify.\n9. Other_info: The shirt features a prominent emblem or patch on the left side with a character image.\n10. Other_info: The shirt has a plaid texture design."
+  },
+  {
+    "id": "dataset/2695.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Unisex (likely intended for young children)\n3. Sleeves: Short\n4. Collar: Without collar (crew neck)\n5. Formal_informal: Casual\n6. Colour: White, blue, with a yellow graphic\n7. Age group: 3 to 4 years\n8. Brand name: Not identifiable from the image\n9. Other info: The shirt features a graphic of \"Baby Mickey\", indicating it is a piece of Disney merchandise.\n10. Additional detail: The t-shirt has a color block design with the lower half being blue and the upper half being white, with a ribbed neckline in contrasting white color."
+  },
+  {
+    "id": "dataset/2708.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Women clothes\n3. Sleeves: Sleeveless\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Color: White with color print\n7. Age group: Not applicable (seems like children's clothing, but not within specified age groups)\n8. Brand name: Not identifiable\n9. Design elements: Ruffles at the bottom, tie-up shoulder straps\n10. Pattern: Graphic print with character and text \"Daisy\""
+  },
+  {
+    "id": "dataset/2710.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Woman clothes\n3. Sleeves: Sleeveless\n4. Collar: With collar\n5. Formal/Informal: Casual\n6. Color: Red and white\n7. Age Group: 3 to 4 years\n8. Brand Name: Not identifiable in the image\n9. Other info: The dress features a popular animated character print, suggesting it's designed for children.\n10. Other info: The dress has a polka-dot pattern and a prominent red bow, which is characteristic of the animated character's style."
+  },
+  {
+    "id": "dataset/2711.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Women's clothes (more specifically, it appears to be a girl's dress based on the size and style)\n3. Sleeves: Sleeveless\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Color: Red, with a white and red checkered pattern\n7. Age group: Likely intended for 3 to 4 years based on style and size\n8. Brand name: Cannot determine from the image\n9. Other info: The dress features a character illustration on the front, possibly indicating it's a children's garment.\n10. Other info: The dress has a halter neck design with a tie at the back of the neck."
+  },
+  {
+    "id": "dataset/2712.jpg",
+    "annotations": "1. Type of Image: Clothes\n2. Gender: Woman clothes\n3. Sleeves: Without sleeves (sleeveless)\n4. Collar: Without collar\n5. Formal_Informal: Casual\n6. Colour: Blue and white checkered pattern\n7. Age Group: Appears to be a child's dress, possibly for ages 3 to 4 years\n8. Brand Name: Not visible; cannot be determined\n9. Other Info: This is a halter neck dress for a young girl with a bow detail at the back of the neck.\n10. More About Image: The dress has an A-line cut and elasticated back for fit."
+  },
+  {
+    "id": "dataset/2714.jpg",
+    "annotations": "1. Type of Image: Clothes\n2. Gender: Unisex (seems suitable for both baby girls and boys)\n3. Sleeves: Short\n4. Collar: Without Collar\n5. Formal_Informal: Casual\n6. Color: Red (with white elements on the shirt)\n7. Age Group: 3 to 4 years\n8. Brand Name: Not identifiable from the image, no visible brand logo\n9. Other Info: The outfit includes a graphic with an animated character on the shirt which could hint at children's apparel, the shorts have a faux fly and pocket design, and the word \"BABY\" is visible on both pieces suggesting it's designed for a toddler.\n10. Pattern: Solid colors with graphic print on the shirt"
+  },
+  {
+    "id": "dataset/2715.jpg",
+    "annotations": "1. Type of Image: Clothes\n2. Gender: Women's Clothes (though it appears to be designed for a young girl given the character and style)\n3. Sleeves: Sleeveless\n4. Collar: Without collar\n5. Formal/Informal: Casual\n6. Color: Yellow with white stripes and a red graphic\n7. Age Group: Likely designed for a 3 to 4 years age group due to the character depiction\n8. Brand Name: Cannot determine (brand not visible in the image provided)\n9. Other Info: The image features a graphic of an animated character, which appears to be Minnie Mouse from Disney\n10. Additional Detail: The top has tie-up details on the shoulders."
+  },
+  {
+    "id": "dataset/2716.jpg",
+    "annotations": "1. Type of Image: Clothes\n2. Gender: Woman's clothes or possibly children's given the character depicted\n3. Sleeves: Sleeveless\n4. Collar: Without collar\n5. Formal/Informal: Casual\n6. Color: Red with white stripes\n7. Age Group: The design suggests it could be suitable for a child, possibly in the range of 3 to 4 years old, depending on size\n8. Brand Name: Not identifiable from the image\n9. Other Info: There is a graphic of an animated character on the garment\n10. Character Depiction: Illustration of a classic animated character"
+  },
+  {
+    "id": "dataset/2717.jpg",
+    "annotations": "1. Type_of_image: Clothes\n2. Gender: Woman's clothes\n3. Sleeves: Short sleeves\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Color: Blue with polka dots\n7. Age_group: It looks like a child's garment, so possibly 3 to 4 years\n8. Brand_name: The brand is not identifiable as one of the mentioned options (Nokia, Calvin Klein)\n9. Other_info: The garment features a ruffled hem and a decorative baseball patch\n10. Other_info: The clothing appears to be a girl's tunic or blouse."
+  },
+  {
+    "id": "dataset/2718.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Woman clothes\n3. Sleeves: Short sleeves\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Color: Red\n7. Age group: Not applicable (clothes do not fit the age group categories provided)\n8. Brand name: Not identifiable (no visible brand that matches the provided options)\n9. Other info: The garment appears to be a red polka dot blouse with frill detailing at the bottom, suitable for spring or summer wear.\n10. Other info: The item may be categorized as children's wear due to its style and size."
+  },
+  {
+    "id": "dataset/2719.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: N/A (likely children's clothes due to size and design)\n3. Sleeves: N/A (the item is a pair of pants)\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Colour: Blue (with some multicolor details)\n7. Age_group: 3 to 4 years (based on the size and cartoon design)\n8. Brand_name: Not identifiable from the image\n9. Other_info: Children's denim pants with elastic waistband; features a cartoon character design on the leg; has cargo pockets on the side.\n10. Additional_details: The pants appear to be suitable for toddler wear, designed for comfort with an elastic waist for easy fitting."
+  },
+  {
+    "id": "dataset/2720.jpg",
+    "annotations": "type_of_image: Clothes\ngender: Likely children's clothes\nsleeves: Not applicable (these are shorts)\ncollar: Without collar\nformal_informal: Casual\ncolour: Blue\nage_group: Likely 3 to 4 years (subject to size confirmation)\nbrand_name: Not identifiable from the image\nother_info: The shorts feature a graphic of an animated character (Mickey Mouse) on one leg, indicating a design targeting young children; they have an elastic waistband and are likely made from denim material; there are cargo-style pockets as well.\n"
+  },
+  {
+    "id": "dataset/2722.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Likely designed for young children; specific gender styling not clearly indicated but may lean toward traditionally masculine styles due to the character design.\n3. Sleeves: N/A (these are shorts)\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Color: Blue (Primary color), with some additional multicolor embroidery\n7. Age_group: 3 to 4 years (based on size and style)\n8. Brand_name: Not identifiable in this image\n9. Other_info: Embroidered with Disney characters, specifically Baby Mickey, suggesting the shorts are Disney-branded or Disney-themed.\n10. Other_info: Appears to be made of denim fabric; suitable for playwear or everyday use."
+  },
+  {
+    "id": "dataset/2724.jpg",
+    "annotations": "1. type_of_image: clothes\n2. gender: unspecified (likely designed for children)\n3. sleeves: short\n4. collar: with collar\n5. formal_informal: casual\n6. color: white with red collar and multicolor design\n7. age_group: 3 to 4 years\n8. brand_name: unspecified (not visible in the image)\n9. other_info: children's polo shirt with a cartoon tiger design\n10. other_info: suitable for everyday wear"
+  },
+  {
+    "id": "dataset/2727.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Unisex (likely designed for children)\n3. Sleeves: Short sleeves\n4. Collar: With collar\n5. Formal_Informal: Casual\n6. Color: Mainly yellow with a blue collar\n7. Age Group: 3 to 4 years\n8. Brand Name: Unable to determine from the image\n9. Other Info: The shirt has a cartoon character design on it which seems to be a tiger.\n10. Other Info: Item is a polo shirt suitable for toddlers or young children."
+  },
+  {
+    "id": "dataset/2728.jpg",
+    "annotations": "1. type_of_image: clothes\n2. gender: woman clothes (specifically young girl's outfit)\n3. sleeves: short\n4. collar: without collar\n5. formal_informal: casual\n6. color: pink (top), white (skirt)\n7. age_group: 3 to 4 years\n8. brand_name: (brand not visible, cannot determine)\n9. other_info: The outfit consists of a pink short-sleeve top with a cute graphic print and a white skirt with a pink ribbon and graphic print.\n10. other_info: The clothes appear to be for a spring or summer season given the style and material."
+  },
+  {
+    "id": "dataset/2730.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Appears to be children's clothes\n3. Sleeves: Short\n4. Collar: With collar\n5. Formal/Informal: Casual\n6. Color: Red\n7. Age group: 3 to 4 years\n8. Brand name: The brand name is not visible in the image provided.\n9. Other info: The shirt features a cartoon character print on the front.\n10. Other info: The t-shirt is designed for a young child, likely a toddler, considering the size and style."
+  },
+  {
+    "id": "dataset/2732.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Unisex (likely children's clothes)\n3. Sleeves: Short\n4. Collar: With collar\n5. Formal_informal: Casual\n6. Colour: White with blue accents\n7. Age group: 3 to 4 years\n8. Brand name: Not identifiable from the image\n9. Other info: The t-shirt features a cartoon character which appears to be an animal (possibly a dog) riding a horse, indicating that it is probably designed for young children. The background of the image is white, suggesting it might be meant for online shopping.\n10. Secondary color: Blue trim on collar and sleeves"
+  },
+  {
+    "id": "dataset/2737.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Woman's clothes\n3. Sleeves: Short sleeves\n4. Collar: Without collar\n5. Formal or Casual: Casual\n6. Color: Red\n7. Age Group: Not applicable (Based on size, the item could be for a child, but no specific age group can be determined without more context)\n8. Brand Name: Not identifiable from the image\n9. Other Info: Features cartoon character graphics\n10. Other Info: Suitable for summer wear"
+  },
+  {
+    "id": "dataset/2738.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Appears to be for boys\n3. Sleeves: Long sleeves\n4. Collar: Without collar\n5. Formality: Casual\n6. Color: White (top), Navy Blue (bottom)\n7. Age group: Likely designed for 3 to 4 years\n8. Brand name: Not visible; cannot determine from image\n9. Other info: Set of clothing includes a graphic print on the shirt, and the pants have contrast stitching and an emblem on the leg\n10. More about image: The clothing appears to be children's wear, suitable for everyday wear, possibly made from cotton or a cotton blend fabric for comfort."
+  },
+  {
+    "id": "dataset/2740.jpg",
+    "annotations": "1. Type_of_image: Clothes\n2. Gender: Not clear\n3. Sleeves: Sleeveless\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Colour: Blue top, multicolored bottoms\n7. Age_group: Appears to be children's clothing\n8. Brand_name: Not identifiable\n9. Other_info: Set includes a tank top and shorts with a cartoon character design\n10. Other_info: Likely summer or warm-weather clothing based on the style and fabric"
+  },
+  {
+    "id": "dataset/2741.jpg",
+    "annotations": "1. type_of_image: clothes\n2. gender: woman clothes\n3. sleeves: sleeveless\n4. collar: without collar\n5. formal_informal: casual\n6. color: pink top, multicolor shorts\n7. age_group: 20 to 30 years (applicable for adult sizes, although the style might suggest younger demographics)\n8. brand_name: Not identifiable from the image provided\n9. other_info: Set of summer clothes, possibly pajamas or loungewear, with a cartoon character design on the top\n10. other_info: The shorts have an elastic waistband and a plaid pattern with multiple colors"
+  },
+  {
+    "id": "dataset/2742.jpg",
+    "annotations": "1. Type of Image: Clothes\n2. Gender: Woman clothes (more specifically, looks like young girl's clothing)\n3. Sleeves: Short\n4. Collar: With collar\n5. Formal_Informal: Casual\n6. Colour: White (with red stripes on the skirt)\n7. Age Group: 3 to 4 years\n8. Brand Name: Not visible, cannot be determined\n9. Other Info: Outfit appears to be a set with a character design, possibly from an animated series or movie\n10. Other Info: The clothing features playful designs, suitable for a young child, and includes a frilly skirt with a tie-up waist."
+  },
+  {
+    "id": "dataset/2744.jpg",
+    "annotations": "1. type_of_image: clothes\n2. gender: not applicable (children's clothing)\n3. sleeves: short\n4. collar: with collar\n5. formal_informal: casual\n6. color: yellow, white (stripes), orange (shorts), and additional multi-color accents\n7. age_group: 3 to 4 years\n8. brand_name: not identifiable in the image provided\n9. other_info: the clothes feature a cartoon character design, which suggests that they are meant for young children.\n10. other_info: The clothing set consists of a t-shirt and shorts, indicating summer or warm weather appropriate wear."
+  },
+  {
+    "id": "dataset/2746.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Children's clothes (Age group indication suggests for young children)\n3. Sleeves: Short sleeves\n4. Collar: With collar\n5. Formal_informal: Casual\n6. Color: Yellow shirt, blue shorts\n7. Age group: 3 to 4 years\n8. Brand name: Not identifiable from image (None visible from the provided labels)\n9. Other info: Outfit consists of a short-sleeved polo shirt and denim shorts; appears to be a coordinating set with a \"surf\" theme.\n10. Additional detail: There are graphics and text related to surfing on both the shirt and shorts."
+  },
+  {
+    "id": "dataset/3322.jpg",
+    "annotations": "1. type_of_image: clothes\n2. gender: men's clothes\n3. sleeves: short\n4. collar: with collar\n5. formal_informal: casual\n6. color: purple with gold accents\n7. age_group: 20 to 30 years\n8. brand_name: Reebok\n9. other_info: sports polo t-shirt with a crest or logo on the chest\n10. other_info: potentially associated with a sports team or event due to the crest/logo"
+  },
+  {
+    "id": "dataset/3324.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Unisex (likely men's based on style)\n3. Sleeves: Short sleeves\n4. Collar: Without collar (crew neck)\n5. Formal_informal: Casual\n6. Color: Purple with light color accents\n7. Age group: Likely aimed at adults (due to size and style)\n8. Brand name: Appears to be a branded sports t-shirt\n9. Other info: Sports t-shirt, likely for teamwear or athletic activities\n10. Additional detail: Features sporty design accents on shoulders and a graphic on the chest"
+  },
+  {
+    "id": "dataset/3332.jpg",
+    "annotations": "1. Type of Image: Clothes\n2. Gender: Unisex (could be worn by either men or women)\n3. Sleeves: Short sleeves\n4. Collar: With collar\n5. Formal/Informal: Casual\n6. Color: Red\n7. Age Group: Likely 20 to 30 years\n8. Brand Name: Appears to be Reebok\n9. Other Info: The shirt features a crest or emblem on the chest area.\n10. Other Info: Athletic or sportswear appearance, possibly a jersey or team-related apparel."
+  },
+  {
+    "id": "dataset/3806.jpg",
+    "annotations": "1. Type_of_image: clothes\n2. Gender: Could be unisex based on size but typically resembles men's styling\n3. Sleeves: short\n4. Collar: without collar (crew neck)\n5. Formal_informal: casual\n6. Colour: green with multicolored print\n7. Age_group: Cannot be determined precisely from the image, potentially for adults based on general appearance\n8. Brand_name: Not identifiable in the image\n9. Other_info: T-shirt with graphic design/print on the front\n10. Other_info: Solid back, no visible seams or additional details"
+  },
+  {
+    "id": "dataset/3807.jpg",
+    "annotations": "Here are 10 labels for the provided image:\n\n1. Type of image: Clothes\n2. Gender: Appears to be children's clothes, possibly unisex\n3. Sleeves: Short sleeves\n4. Collar: Without collar\n5. Formal or Informal: Casual\n6. Color: Red\n7. Age Group: Appears suitable for young children, possibly 3 to 4 years\n8. Brand Name: Not identifiable from the image\n9. Other info: Features a cartoon character print on the front.\n10. More about image: The t-shirt is presented on a plain background, enhancing focus on the item."
+  },
+  {
+    "id": "dataset/3809.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Unisex (could be for boys or girls based on design)\n3. Sleeves: Short\n4. Collar: Without collar\n5. Formal_informal: Casual\n6. Color: Red\n7. Age_group: 3 to 4 years\n8. Brand_name: Not discernible in the image\n9. Other_info: The shirt features a character that appears to be Winnie the Pooh, suggesting it's children's apparel with a classic cartoon theme.\n10. Additional detail: The shirt includes a contrast color on the sleeve hems, playful graphics, and decorative elements that are appealing to children."
+  },
+  {
+    "id": "dataset/3810.jpg",
+    "annotations": "1. type_of_image: clothes\n2. gender: appears to be designed for children\n3. sleeves: short sleeves\n4. collar: with collar\n5. formal_informal: casual\n6. colour: primary color is blue with white, red, and orange accents\n7. age_group: likely 3 to 4 years\n8. brand_name: not identifiable, brand obscured\n9. other_info: features characters from Winnie the Pooh\n10. other_info: possibly a children's summer T-shirt"
+  },
+  {
+    "id": "dataset/3811.jpg",
+    "annotations": "1. Type_of_image: Clothes\n2. Gender: Unisex (could be meant for both boys and girls considering the design)\n3. Sleeves: Short\n4. Collar: Without collar (round neck)\n5. Formal_Informal: Casual\n6. Color: Red\n7. Age_group: 3 to 4 years (apparent from the size and design suitable for young children)\n8. Brand_name: Cannot be determined from the image provided\n9. Other_info: The T-shirt features an animation, possibly of popular characters (Winnie the Pooh and Tigger), indicating it is themed for children. The image also shows a contrast-colored round neck with a blue trim and coordinating blue stitching at the hem."
+  },
+  {
+    "id": "dataset/3819.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Woman's clothes\n3. Sleeves: Sleeveless\n4. Collar: Without collar\n5. Formal/Informal: Casual\n6. Color: Pink with green details\n7. Age Group: Appears to be for young children (could fit the 3 to 4 years category based on sizing, but this is speculative)\n8. Brand Name: Cannot accurately determine the brand from the image\n9. Other Info: Features a graphic of Minnie Mouse, indicating it is Disney-themed or licensed\n10. Other Info: The tank top appears to have ruffled straps with polka dot detailing"
+  },
+  {
+    "id": "dataset/3820.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Women's clothes (specifically designed for a young girl)\n3. Sleeves: Sleeveless\n4. Collar: Without collar\n5. Formal/Informal: Casual\n6. Colour: White with pink trim and multicolored design\n7. Age group: 3 to 4 years\n8. Brand name: Disney\n9. Other info: The garment features a graphic of the animated character Minnie Mouse and has decorative pink polka-dot trim.\n10. Other info: The top is likely intended for casual wear or playwear for a young child, given its style and print."
+  },
+  {
+    "id": "dataset/3851.jpg",
+    "annotations": "1. Type of image: Clothes\n2. Gender: Appears to be designed for girls\n3. Sleeves: Short sleeves\n4. Collar: With a collar, contrasting color\n5. Formal or Casual: Casual\n6. Color: Pink with a green collar\n7. Age group: Appears to be designed for young children, possibly 3 to 4 years due to size and style\n8. Brand Name: The brand is not clearly visible, cannot be determined from the image\n9. Other Info: Features a character graphic, which looks like Minnie Mouse from Disney\n10. More about image: The image is a high-resolution display of a child's T-shirt on a white background, showcasing the front side design."
+  },
+  {
+    "id": "dataset/3852.jpg",
+    "annotations": "1. Type of Image: Clothes\n2. Gender: Appears to be designed for women\n3. Sleeves: Short sleeves\n4. Collar: With collar\n5. Formal/Informal: Casual\n6. Color: Predominantly red with additional colors\n7. Age Group: Not clearly defined in this context; could suit a variety of age groups depending on style\n8. Brand Name: Not identifiable from the image\n9. Other Info: Features an animated character graphic\n10. Character Depicted: Female duck character from Disney (note that I am not allowed to provide the specific name of the character)"
+  }
+]
